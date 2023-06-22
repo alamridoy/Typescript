@@ -7,10 +7,10 @@
 
 //multiple type
 
-let multipleType : (string|number)[];
+// let multipleType : (string|number)[];
 
-multipleType =['ridoy','dhaka',0284938]
-//multipleType.sort()
-//multipleType.push("anhiata")
+// multipleType =['ridoy','dhaka',0284938]
+// //multipleType.sort()
+// //multipleType.push("anhiata")
 
-console.log(multipleType);
+// console.log(multipleType);
